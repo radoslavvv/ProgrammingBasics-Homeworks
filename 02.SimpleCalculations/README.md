@@ -1,4 +1,4 @@
-# ProgrammingBasics-Homeworks-02.SimpleCalculations
+# ProgrammingBasics-Homework-02.SimpleCalculations
 
 Here are my solutions to Programming Basics - Simple Calculations Homework
 
