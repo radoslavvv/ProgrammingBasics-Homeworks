@@ -10,8 +10,8 @@ namespace Inches_to_Centimeters
     {
         static void Main(string[] args)
         {
-            var number = double.Parse(Console.ReadLine());
-            var numberInInches = number * 2.54;
+            double number = double.Parse(Console.ReadLine());
+            double numberInInches = number * 2.54;
 
             Console.WriteLine(numberInInches);
 
