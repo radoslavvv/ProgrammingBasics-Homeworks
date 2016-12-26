@@ -1,4 +1,4 @@
-# ProgrammingBasics-Homeworks-01.FirstStepsInCoding
+# ProgrammingBasics-Homework-01.FirstStepsInCoding
 
 Here are my solutions to Programming Basics - First Steps in Coding Homework
 
