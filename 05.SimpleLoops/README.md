@@ -2,4 +2,6 @@
 
 Here are my solutions to Programming Basics - Simple Loops Homework
 
-Link: https://judge.softuni.bg/Contests/Practice/Index/154#0
+Judge: https://judge.softuni.bg/Contests/Practice/Index/154#0
+
+Conditions:https://softuni.bg/trainings/resources/officedocument/12303/exercise-problem-descriptions-programming-basics-for-students-december-2016
