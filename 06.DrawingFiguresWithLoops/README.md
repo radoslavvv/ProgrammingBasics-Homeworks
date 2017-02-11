@@ -2,4 +2,5 @@
 
 Here are my solutions to Programming Basics - Drawing Figures With Loops Homework
 
-Link: https://judge.softuni.bg/Contests/Practice/Index/155#0
+Judge: https://judge.softuni.bg/Contests/Practice/Index/155#0
+Conditions: https://softuni.bg/trainings/resources/officedocument/12529/exercise-problem-descriptions-programming-basics-for-students-december-2016
