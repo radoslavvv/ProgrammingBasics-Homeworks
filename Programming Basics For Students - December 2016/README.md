@@ -5,12 +5,12 @@
 
 <ol type="1">
   <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Basics%20For%20Students%20-%20December%202016/Homework/01.FirstStepsInCoding">First Steps in Coding</a> </li>
-  <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Basics%20For%20Students%20-%20December%202016/Homework/02.SimpleCalculations"></a>Simple Calculations </li>
+  <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Basics%20For%20Students%20-%20December%202016/Homework/02.SimpleCalculations">Simple Calculations </a></li>
   <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Basics%20For%20Students%20-%20December%202016/Homework/03.SimpleConditionalStatements">Simple Conditional Statements</a> </li>
   <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Basics%20For%20Students%20-%20December%202016/Homework/04.ComplexConditionalStatements">Complex Conditional Statements</a> </li>
   <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Basics%20For%20Students%20-%20December%202016/Homework/05.SimpleLoops">Simple Loops</a> </li>
-  <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Basics%20For%20Students%20-%20December%202016/Homework/06.DrawingFiguresWithLoops"></a>Drawing Figures with Loops </li>
-  <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Basics%20For%20Students%20-%20December%202016/Homework/07.AdvancedLoops"></a>Advanced Loops</li>
+  <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Basics%20For%20Students%20-%20December%202016/Homework/06.DrawingFiguresWithLoops">Drawing Figures with Loops</a> </li>
+  <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Basics%20For%20Students%20-%20December%202016/Homework/07.AdvancedLoops">Advanced Loops</a></li>
 </ol>
 
 <h1>Exams:</h1>
