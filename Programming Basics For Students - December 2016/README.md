@@ -16,12 +16,12 @@
 <h1>Exams:</h1>
 
 <ol type="circle">
-    <li><a href="">Coding101 6 March 2016</a> </li>
-    <li><a href="">Coding101 26 March 2016</a> </li>
-    <li><a href="">Coding101 24 April 2016</a> </li>
-    <li><a href="">Programming Basics Exam 17 July 2016</a> </li>
-    <li><a href="">Programming Basics Exam 28 August 2016</a> </li>
-    <li><a href="">Programming Basics Exam 20 November Evening 2016</a> </li>
-    <li><a href="">Programming Basics Exam 18 December 2016</a></li>
-    <li><a href="">Programming Basics Exam 19 March 2017</a></li>
+    <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Basics%20For%20Students%20-%20December%202016/Exams/Coding101%20-%206%20March%202016">Coding101 6 March 2016</a> </li>
+    <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Basics%20For%20Students%20-%20December%202016/Exams/Coding101%20-%2026%20March%202016">Coding101 26 March 2016</a> </li>
+    <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Basics%20For%20Students%20-%20December%202016/Exams/Coding101%20-%2024%20April%202016">Coding101 24 April 2016</a> </li>
+    <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Basics%20For%20Students%20-%20December%202016/Exams/Programming%20Basics%20Exam%20-%2017%20July%202016">Programming Basics Exam 17 July 2016</a> </li>
+    <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Basics%20For%20Students%20-%20December%202016/Exams/Programming%20Basics%20Exam%20-%2028%20August%202016">Programming Basics Exam 28 August 2016</a> </li>
+    <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Basics%20For%20Students%20-%20December%202016/Exams/Programming%20Basics%20Exam%20-%2020%20November%20Evening%202016">Programming Basics Exam 20 November Evening 2016</a> </li>
+    <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Basics%20For%20Students%20-%20December%202016/Exams/Programming%20Basics%20Exam%20-%2018%20December%202016">Programming Basics Exam 18 December 2016</a></li>
+    <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Basics%20For%20Students%20-%20December%202016/Exams/Programming%20Basics%20Exam%20-%2019%20March%202017">Programming Basics Exam 19 March 2017</a></li>
 </ol>
