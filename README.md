@@ -1,2 +1,2 @@
 # SoftUni
-SoftUni's courses
+Here are all the cources SoftUni's courses I attended. 
