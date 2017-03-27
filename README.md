@@ -1,5 +1,5 @@
 # SoftUni
-<p> Here are all the cources SoftUni's courses I attended. </p>
+<p> Here are all the cources SoftUni's courses I attended: </p>
 <ul>
   <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Basics%20For%20Students%20-%20December%202016">Programming Basics for students - December 2016</a> </li>
 </ul>
