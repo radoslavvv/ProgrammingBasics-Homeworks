@@ -1,7 +1,7 @@
 # SoftUni Programming Basics for students:
 <p>Containing the tasks from SoftUni's course Programming Basics for students December 2016.</p>
 
-<h1>Tasks:</h1>
+<h1>Lectures:</h1>
 
 <ol type="1">
   <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Basics%20For%20Students%20-%20December%202016/Homework/01.FirstStepsInCoding">First Steps in Coding</a> </li>
