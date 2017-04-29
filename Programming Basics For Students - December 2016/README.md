@@ -1,5 +1,5 @@
 # SoftUni - Programming Basics for Students:
-<p>Containing the tasks from SoftUni's course Programming Basics for students December 2016.</p>
+<p>Containing the tasks from SoftUni's course Programming Basics for Students December 2016.</p>
 
 <h1>Exercises:</h1>
 
