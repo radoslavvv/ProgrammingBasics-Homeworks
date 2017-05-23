@@ -11,13 +11,11 @@ class Program
         string name = Console.ReadLine();
         int age = int.Parse(Console.ReadLine());
         string id = Console.ReadLine();
-
-        id = id.PadLeft(8, '0');
         decimal salary = decimal.Parse(Console.ReadLine());
 
         Console.WriteLine($"Name: {name}");
         Console.WriteLine($"Age: {age}");
-        Console.WriteLine($"Employee ID: {id:d8}");
+        Console.WriteLine($"Employee ID: {id.PadLeft(8, '0')}");
         Console.WriteLine($"Salary: {salary:0.00}");
     }
 }
