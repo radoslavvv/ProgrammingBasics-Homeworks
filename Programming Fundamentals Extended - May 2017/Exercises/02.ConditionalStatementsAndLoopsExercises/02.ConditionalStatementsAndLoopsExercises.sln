@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ConditionalStatementsAndLoopsExercises", "02.ConditionalStatementsAndLoopsExercises\02.ConditionalStatementsAndLoopsExercises.csproj", "{2581B2AD-58AD-4F02-9AC7-250F90DEB82A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ChooseDrink", "02.ConditionalStatementsAndLoopsExercises\01.ChooseDrink.csproj", "{2581B2AD-58AD-4F02-9AC7-250F90DEB82A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ChooseDrink2.0", "02.ChooseDrink2.0\02.ChooseDrink2.0.csproj", "{F78F6D23-E61E-451A-89C7-90157F897E1B}"
 EndProject
