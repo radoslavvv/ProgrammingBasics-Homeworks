@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CSharpConditionalStatementsAndLoops", "02.CSharpConditionalStatementsAndLoops\02.CSharpConditionalStatementsAndLoops.csproj", "{A435C723-1A60-4445-9944-C00585C2E0F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Passed", "02.CSharpConditionalStatementsAndLoops\01.Passed.csproj", "{A435C723-1A60-4445-9944-C00585C2E0F6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PassedOrFailed", "02.PassedOrFailed\02.PassedOrFailed.csproj", "{D3E813A8-BF95-463B-8DB7-34CD7C605313}"
 EndProject
