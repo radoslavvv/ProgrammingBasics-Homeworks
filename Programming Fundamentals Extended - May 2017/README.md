@@ -4,7 +4,7 @@
 <h1><strong>Labs:</strong></h1>
 
 <ol type="1">
-  <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/01.CSharpIntro">C# Intro and Basic Syntax</a> </li>
+  <li><a href="https://github.com/radoslavvv/SoftUni/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/01.CSharpIntro">C# Intro and Basic Syntax</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/02.CSharpConditionalStatementsAndLoops">C# Conditional Statements and Loops</a></li>
   
 </ol>
