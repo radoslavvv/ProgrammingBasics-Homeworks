@@ -8,6 +8,7 @@
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/02.CSharpConditionalStatementsAndLoops">C# Conditional Statements and Loops</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/03.NumeralTypes%D0%90ndTypeConversion">Data Types: Numeral Types and Type Conversion</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/04.MethodsAndDebugging">Methods and Debugging Code</a></li>
+  <li><a href=""https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/05.Arrays">Arrays</a></li>
 </ol>
 
 <h1><strong>Exercises:</strong></h1>
