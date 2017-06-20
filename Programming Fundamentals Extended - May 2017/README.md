@@ -20,4 +20,5 @@
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/04.DataTypesAndVariablesExercises">Data Types and Variables Exercises</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/05.ArrayAndMethodsExercises">Arrays and Methods Exercises</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/06.ArraysMoreExercises">Arrays More Exercises</a></li>
+  <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/07.ListsExercises">Lists Exercises</a></li>
 </ol>
