@@ -10,7 +10,7 @@
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/04.MethodsAndDebugging">Methods and Debugging Code</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/05.Arrays">Arrays</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/06.Lists">Lists</a></li>
-  <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/07.ArrayAndListAlgorithms"Array and List Algorithms</a></li>
+  <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/07.ArrayAndListAlgorithms">Array and List Algorithms</a></li>
 </ol>
 
 <h1><strong>Exercises:</strong></h1>
