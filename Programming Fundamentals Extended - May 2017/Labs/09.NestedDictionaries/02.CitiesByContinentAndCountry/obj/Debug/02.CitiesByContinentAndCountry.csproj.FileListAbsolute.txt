@@ -1,0 +1,5 @@
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\15.NestedDictionaries\02.CitiesByContinentAndCountry\bin\Debug\02.CitiesByContinentAndCountry.exe.config
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\15.NestedDictionaries\02.CitiesByContinentAndCountry\bin\Debug\02.CitiesByContinentAndCountry.exe
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\15.NestedDictionaries\02.CitiesByContinentAndCountry\bin\Debug\02.CitiesByContinentAndCountry.pdb
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\15.NestedDictionaries\02.CitiesByContinentAndCountry\obj\Debug\02.CitiesByContinentAndCountry.exe
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\15.NestedDictionaries\02.CitiesByContinentAndCountry\obj\Debug\02.CitiesByContinentAndCountry.pdb

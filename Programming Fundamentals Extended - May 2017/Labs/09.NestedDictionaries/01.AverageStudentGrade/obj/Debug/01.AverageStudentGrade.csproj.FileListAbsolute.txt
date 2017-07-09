@@ -1,0 +1,6 @@
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\15.NestedDictionaries\15.NestedDictionaries\bin\Debug\15.NestedDictionaries.exe.config
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\15.NestedDictionaries\15.NestedDictionaries\bin\Debug\15.NestedDictionaries.exe
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\15.NestedDictionaries\15.NestedDictionaries\bin\Debug\15.NestedDictionaries.pdb
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\15.NestedDictionaries\15.NestedDictionaries\obj\Debug\01.AverageStudentGrade.csprojResolveAssemblyReference.cache
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\15.NestedDictionaries\15.NestedDictionaries\obj\Debug\15.NestedDictionaries.exe
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\15.NestedDictionaries\15.NestedDictionaries\obj\Debug\15.NestedDictionaries.pdb
