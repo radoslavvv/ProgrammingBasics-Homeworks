@@ -1,5 +1,0 @@
-C:\Users\monop\onedrive\documents\visual studio 2017\Projects\15.NestedDictionaries\03.RecordUniqueNames\bin\Debug\03.RecordUniqueNames.exe.config
-C:\Users\monop\onedrive\documents\visual studio 2017\Projects\15.NestedDictionaries\03.RecordUniqueNames\bin\Debug\03.RecordUniqueNames.exe
-C:\Users\monop\onedrive\documents\visual studio 2017\Projects\15.NestedDictionaries\03.RecordUniqueNames\bin\Debug\03.RecordUniqueNames.pdb
-C:\Users\monop\onedrive\documents\visual studio 2017\Projects\15.NestedDictionaries\03.RecordUniqueNames\obj\Debug\03.RecordUniqueNames.exe
-C:\Users\monop\onedrive\documents\visual studio 2017\Projects\15.NestedDictionaries\03.RecordUniqueNames\obj\Debug\03.RecordUniqueNames.pdb
