@@ -29,4 +29,5 @@
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/09.ArrayAndListAlgorithmsExercises">Array and List Algorithms - Exercises</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/10.ArrayAndListAlgorithmsMoreExercises">Array and List Algorithms - More Exercises</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/11.DictionariesExercises">Dictionaries - Exercises</a></li>
+  <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/12.NestedDictionariesExercises">Nested Dictionaries - Exercises</a></li>
 </ol>

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Wardrobe", "16.NestedDictionariesExercises\01.Wardrobe.csproj", "{ED540492-28B8-49A0-9ED1-FEB421415C7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.KeyKeyValueValue", "02.KeyKeyValueValue\02.KeyKeyValueValue.csproj", "{18847371-AE47-4F41-A491-B031D6BC5090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.TravelCompany", "03.TravelCompany\03.TravelCompany.csproj", "{EA3EC76B-CED7-4F6F-96EA-D848B87D069F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Shellbound", "04.Shellbound\04.Shellbound.csproj", "{9165FFDD-C280-4ED9-A9F2-AAE3DA19247D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DictRefAdvanced", "05.DictRefAdvanced\05.DictRefAdvanced.csproj", "{FF48DF2D-D44C-42CC-B16F-07EBC0F98AA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ForumTopics", "06.ForumTopics\06.ForumTopics.csproj", "{DACCB774-9181-4A72-A6FD-FF4F531B7B9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SocialMediaPosts", "07.SocialMediaPosts\07.SocialMediaPosts.csproj", "{547A402F-2F40-4EF0-B98C-5F53A006CB20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED540492-28B8-49A0-9ED1-FEB421415C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED540492-28B8-49A0-9ED1-FEB421415C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED540492-28B8-49A0-9ED1-FEB421415C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED540492-28B8-49A0-9ED1-FEB421415C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18847371-AE47-4F41-A491-B031D6BC5090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18847371-AE47-4F41-A491-B031D6BC5090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18847371-AE47-4F41-A491-B031D6BC5090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18847371-AE47-4F41-A491-B031D6BC5090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA3EC76B-CED7-4F6F-96EA-D848B87D069F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3EC76B-CED7-4F6F-96EA-D848B87D069F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3EC76B-CED7-4F6F-96EA-D848B87D069F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3EC76B-CED7-4F6F-96EA-D848B87D069F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9165FFDD-C280-4ED9-A9F2-AAE3DA19247D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9165FFDD-C280-4ED9-A9F2-AAE3DA19247D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9165FFDD-C280-4ED9-A9F2-AAE3DA19247D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9165FFDD-C280-4ED9-A9F2-AAE3DA19247D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF48DF2D-D44C-42CC-B16F-07EBC0F98AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF48DF2D-D44C-42CC-B16F-07EBC0F98AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF48DF2D-D44C-42CC-B16F-07EBC0F98AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF48DF2D-D44C-42CC-B16F-07EBC0F98AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DACCB774-9181-4A72-A6FD-FF4F531B7B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACCB774-9181-4A72-A6FD-FF4F531B7B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACCB774-9181-4A72-A6FD-FF4F531B7B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACCB774-9181-4A72-A6FD-FF4F531B7B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547A402F-2F40-4EF0-B98C-5F53A006CB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547A402F-2F40-4EF0-B98C-5F53A006CB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547A402F-2F40-4EF0-B98C-5F53A006CB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547A402F-2F40-4EF0-B98C-5F53A006CB20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
