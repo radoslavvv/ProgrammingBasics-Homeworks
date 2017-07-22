@@ -1,6 +1,0 @@
-C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\02.DictRef\bin\Debug\02.DictRef.exe.config
-C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\02.DictRef\bin\Debug\02.DictRef.exe
-C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\02.DictRef\bin\Debug\02.DictRef.pdb
-C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\02.DictRef\obj\Debug\02.DictRef.exe
-C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\02.DictRef\obj\Debug\02.DictRef.pdb
-C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\02.DictRef\obj\Debug\02.DictRef.csprojResolveAssemblyReference.cache

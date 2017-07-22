@@ -1,5 +1,0 @@
-C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\04.ExamShopping\bin\Debug\04.ExamShopping.exe.config
-C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\04.ExamShopping\bin\Debug\04.ExamShopping.exe
-C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\04.ExamShopping\bin\Debug\04.ExamShopping.pdb
-C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\04.ExamShopping\obj\Debug\04.ExamShopping.exe
-C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\04.ExamShopping\obj\Debug\04.ExamShopping.pdb
