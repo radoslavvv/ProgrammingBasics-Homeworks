@@ -1,0 +1,5 @@
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\06.FilterBase\bin\Debug\06.FilterBase.exe.config
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\06.FilterBase\bin\Debug\06.FilterBase.exe
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\06.FilterBase\bin\Debug\06.FilterBase.pdb
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\06.FilterBase\obj\Debug\06.FilterBase.exe
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\06.FilterBase\obj\Debug\06.FilterBase.pdb

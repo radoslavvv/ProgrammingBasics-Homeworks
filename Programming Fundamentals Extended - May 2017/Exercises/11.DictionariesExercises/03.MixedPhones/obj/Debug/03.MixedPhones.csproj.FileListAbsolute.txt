@@ -1,0 +1,5 @@
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\03.MixedPhones\bin\Debug\03.MixedPhones.exe.config
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\03.MixedPhones\bin\Debug\03.MixedPhones.exe
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\03.MixedPhones\bin\Debug\03.MixedPhones.pdb
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\03.MixedPhones\obj\Debug\03.MixedPhones.exe
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\03.MixedPhones\obj\Debug\03.MixedPhones.pdb

@@ -1,0 +1,5 @@
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\05.UserLogins\bin\Debug\05.UserLogins.exe.config
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\05.UserLogins\bin\Debug\05.UserLogins.exe
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\05.UserLogins\bin\Debug\05.UserLogins.pdb
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\05.UserLogins\obj\Debug\05.UserLogins.exe
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\05.UserLogins\obj\Debug\05.UserLogins.pdb

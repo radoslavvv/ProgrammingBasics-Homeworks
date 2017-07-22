@@ -1,0 +1,6 @@
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\14.DictionariesExercises\bin\Debug\14.DictionariesExercises.exe.config
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\14.DictionariesExercises\bin\Debug\14.DictionariesExercises.exe
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\14.DictionariesExercises\bin\Debug\14.DictionariesExercises.pdb
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\14.DictionariesExercises\obj\Debug\14.DictionariesExercises.csprojResolveAssemblyReference.cache
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\14.DictionariesExercises\obj\Debug\14.DictionariesExercises.exe
+C:\Users\monop\onedrive\documents\visual studio 2017\Projects\14.DictionariesExercises\14.DictionariesExercises\obj\Debug\14.DictionariesExercises.pdb
