@@ -31,4 +31,5 @@
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/11.DictionariesExercises">Dictionaries - Exercises</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/12.NestedDictionariesExercises">Nested Dictionaries - Exercises</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/13.LambdaAndLINQExercises">Lambda and LINQ - Exercises</a></li>
+  <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/14.LambdaAndLINQMoreExercises">Lambda and LINQ - More Exercises</a></li>
 </ol>
