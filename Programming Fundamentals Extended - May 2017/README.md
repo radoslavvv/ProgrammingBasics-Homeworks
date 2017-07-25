@@ -15,6 +15,7 @@
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/09.NestedDictionaries">Nested Dictionaries</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/10.LambdaAndLINQ">Lambda and LINQ</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/11.ObjectsAndClasses">Objects and Classes</a></li>
+    <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/12.FilesDirectoriesAndExceptions">Files Directories and Exceptions</a></li>
   </ol>
 <h1><strong>Exercises:</strong></h1>
 
@@ -34,6 +35,6 @@
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/13.LambdaAndLINQExercises">Lambda and LINQ - Exercises</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/14.LambdaAndLINQMoreExercises">Lambda and LINQ - More Exercises</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/15.ObjectsAndClassesExercises">Objects and Classes - Exercises</a></li>
-  <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/16.FilesDirectoriesAndExceptions">Files Directories and Exceptions</a></li>
+
   
 </ol>
