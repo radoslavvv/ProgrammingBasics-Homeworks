@@ -38,6 +38,4 @@
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/15.ObjectsAndClassesExercises">Objects and Classes - Exercises</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/16.FilesDirectoriesAndExceptionsExercises">Files Directories and Exceptions - Exercises</a></li>
 
-  
->>>>>>> 0ca3346cadf5e4d9018bb21c153215fa18676567
 </ol>
