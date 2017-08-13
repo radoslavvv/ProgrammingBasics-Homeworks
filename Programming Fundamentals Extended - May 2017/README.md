@@ -17,6 +17,7 @@
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/11.ObjectsAndClasses">Objects and Classes</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/12.FilesDirectoriesAndExceptions">Files Directories and Exceptions</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/13.StringsAndTextProcessing">Strings and Text Processing</a></li>
+  <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/14.RegularExpressions">Regular Expressions</a></li>
   </ol>
 
 <h1><strong>Exercises:</strong></h1>
@@ -39,5 +40,6 @@
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/15.ObjectsAndClassesExercises">Objects and Classes - Exercises</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/16.FilesDirectoriesAndExceptionsExercises">Files Directories and Exceptions - Exercises</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/17.StringsAndTextProcessingExercises">Strings and Text Processing - Exercises</a></li>
+  <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/18.RegularExpressionsExercises">Regular Expressions - Exercises</a></li>
 
 </ol>
