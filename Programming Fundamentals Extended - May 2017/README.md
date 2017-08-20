@@ -17,7 +17,7 @@
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/11.ObjectsAndClasses">Objects and Classes</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/12.FilesDirectoriesAndExceptions">Files Directories and Exceptions</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/13.StringsAndTextProcessing">Strings and Text Processing</a></li>
-  <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/14.RegularExpressions">Regular Expressions</a></li>
+  <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Labs/14.RegularExpression">Regular Expressions</a></li>
   </ol>
 
 <h1><strong>Exercises:</strong></h1>
