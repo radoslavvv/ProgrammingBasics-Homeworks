@@ -41,5 +41,14 @@
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/16.FilesDirectoriesAndExceptionsExercises">Files Directories and Exceptions - Exercises</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/17.StringsAndTextProcessingExercises">Strings and Text Processing - Exercises</a></li>
   <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exercises/18.RegularExpressionsExercises">Regular Expressions - Exercises</a></li>
-
 </ol>
+
+<h1><strong>Exam:</strong></h1>
+
+<ul>
+  <li><a href="https://github.com/radoslavvv/Software-University/tree/master/Programming%20Fundamentals%20Extended%20-%20May%202017/Exam">Programming Fundamentals Extended Exam - 20 August 2017 </a> </li>
+</ul>
+
+
+
+
